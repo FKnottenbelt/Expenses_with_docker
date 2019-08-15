@@ -1,7 +1,7 @@
 Learning how to add a PostgreSQL database in a Docker container to a
 Ruby program by rewiring the Expenses app.
 
-## setup
+## Setup
 
 - have docker installed
 - build your containter:
