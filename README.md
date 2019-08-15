@@ -1,5 +1,6 @@
 Learning how to add a PostgreSQL database in a Docker container to a
 Ruby program by rewiring the Expenses app.
+
 ***
 ### Setup
 
